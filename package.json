@@ -1,0 +1,20 @@
+{
+  "name": "simple_spider",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cheerio": "^1.0.0-rc.1",
+    "gulp": "^3.9.1",
+    "koa": "^2.2.0",
+    "mongoose": "^4.10.7",
+    "request": "^2.81.0",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {
+    "gulp-connect": "^5.0.0",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
